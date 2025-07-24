@@ -1,0 +1,17 @@
+{
+  "name": "genel-discord-bot",
+  "version": "1.0.0",
+  "description": "Her komutu olan gelişmiş genel Discord botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "@discordjs/rest": "^1.7.0",
+    "@discordjs/builders": "^1.7.0",
+    "discord-api-types": "^0.37.38"
+  }
+} 
